@@ -26,9 +26,62 @@ Case Study and Project Reports will be presented by the assigned Teams. The proc
 
 All student work is presented with permission of the authors.
 
-| Assignments | Resources |
-| --- | --- |
-| An Ethical Engineer? ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs1)) | Pinker, Steven. "[The Moral Instinct](http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html)." New York Times, January 13, 2008. |
-| Big Infrastructure Engineering ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs2)) | &nbsp; |
-| Social Construction of TV History ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs3)) | &nbsp; |
-| Semiconductors and Learning Curves; Steel Technology and Big Infrastructure ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs4)) | {{< h 3 >}}Student Work{{< /h >}} {{< br >}}{{< br >}} "Semiconductors and Learning Curves." ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs4_sw1)) {{< br >}}{{< br >}} "Steel Technology and Big Infrastructure." ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs4_sw2)) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Assignments
+{{< thclose >}}
+{{< thopen >}}
+Resources
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+An Ethical Engineer? ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs1))
+{{< tdclose >}}
+{{< tdopen >}}
+Pinker, Steven. "[The Moral Instinct](http://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html)." New York Times, January 13, 2008.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Big Infrastructure Engineering ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs2))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Social Construction of TV History ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs3))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Semiconductors and Learning Curves; Steel Technology and Big Infrastructure ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs4))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Student Work
+
+"Semiconductors and Learning Curves." ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs4_sw1))
+
+"Steel Technology and Big Infrastructure." ([PDF]({{< baseurl >}}/resources/mit3_003s10_cs4_sw2))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

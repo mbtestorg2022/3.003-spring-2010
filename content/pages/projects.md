@@ -29,9 +29,116 @@ Project 1: Engineering the Future of Solar Electricity
 
 All student work is presented with permission of the authors.
 
-| ACTIVITIES | STUDENT WORK |
-| --- | --- |
-| Project 1A: Electricity Generation System Constraints ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1a)) |  {{< br >}}{{< br >}} Group 1 ([PDF]({{< baseurl >}}/resources/mit3_003s10_proj1a_sw1)) {{< br >}}{{< br >}} Group 2 ([PDF]({{< baseurl >}}/resources/mit3_003s10_proj1a_sw2)) {{< br >}}{{< br >}}  |
-| Project 1B: Materials Selection ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1b)) |  {{< br >}}{{< br >}} Group 1 ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1b_sw1)) {{< br >}}{{< br >}} Group 2 ([PDF]({{< baseurl >}}/resources/mit3_003s10_proj1b_sw2)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Project 1C: Solar Cell Design and Manufacturing Platform ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1c)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Group 1 ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1c_sw1)) {{< br >}}{{< br >}} Group 2 ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1c_sw2)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Project 1D: Final Poster ([PDF]({{< baseurl >}}/resources/mit3_003s10_proj1d_chart)), Presentation, and Report {{< br >}}{{< br >}} {{< h 3 >}}Background{{< /h >}} {{< br >}}{{< br >}} "Future of Solar Electricity." ([PDF]({{< baseurl >}}/resources/mit3_003s10_solar_future)). Adapted from _High Impact Supply Chain R&D for PV Technologies and Systems_. U.S. Department of Energy (April 21, 2010): DE-FOA-0000234. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} "Solar Electricity: Problem, Constraints and Solutions." {{< br >}}{{< br >}} *   Poster ([PDF]({{< baseurl >}}/resources/mit3_003s10_swe_chart)){{< br >}}*   Presentation ([PDF]({{< baseurl >}}/resources/mit3_003s10_swe_pres)){{< br >}}*   Report ([PDF]({{< baseurl >}}/resources/mit3_003s10_swe_report)) {{< br >}}{{< br >}} "Local Generation of Solar Electricity: Problem and Constraints for the Emergence of Significant Capacity." {{< br >}}{{< br >}} *   Poster ([PDF]({{< baseurl >}}/resources/mit3_003s10_swd_chart)){{< br >}}*   Presentation ([PDF]({{< baseurl >}}/resources/mit3_003s10_swd_pres)){{< br >}}*   Report ([PDF]({{< baseurl >}}/resources/mit3_003s10_swd_report)) {{< br >}}{{< br >}} "Design of CdTe Thin Film Solar Cell and the Basis of its Emergence as a Significant Factor in Grid Electricity Capacity." {{< br >}}{{< br >}} *   Poster (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_003s10_swc_chart)){{< br >}}*   Presentation ([PDF]({{< baseurl >}}/resources/mit3_003s10_swc_pres)){{< br >}}*   Report ([PDF]({{< baseurl >}}/resources/mit3_003s10_swc_report)) {{< br >}}{{< br >}} "Design of Si Thin Film Solar Cell and the Basis of its Emergence as a Significant Factor in Local Electricity Power Generation." {{< br >}}{{< br >}} *   Poster ([PDF]({{< baseurl >}}/resources/mit3_003s10_swb_chart)){{< br >}}*   Presentation ([PDF]({{< baseurl >}}/resources/mit3_003s10_swb_pres)){{< br >}}*   Report ([PDF]({{< baseurl >}}/resources/mit3_003s10_swb_report)) {{< br >}}{{< br >}} "Summary of Options for the Growth of Solar Electricity." {{< br >}}{{< br >}} *   Poster ([PDF]({{< baseurl >}}/resources/mit3_003s10_swa_chart)){{< br >}}*   Presentation ([PDF]({{< baseurl >}}/resources/mit3_003s10_swa_pres)){{< br >}}*   Report ([PDF]({{< baseurl >}}/resources/mit3_003s10_swa_report)) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+STUDENT WORK
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project 1A: Electricity Generation System Constraints ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1a))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Group 1 ([PDF]({{< baseurl >}}/resources/mit3_003s10_proj1a_sw1))
+
+Group 2 ([PDF]({{< baseurl >}}/resources/mit3_003s10_proj1a_sw2))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project 1B: Materials Selection ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1b))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Group 1 ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1b_sw1))
+
+Group 2 ([PDF]({{< baseurl >}}/resources/mit3_003s10_proj1b_sw2))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Project 1C: Solar Cell Design and Manufacturing Platform ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1c))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Group 1 ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1c_sw1))
+
+Group 2 ([PDF]({{< baseurl >}}/resources/mit3_003s10_project1c_sw2))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Project 1D: Final Poster ([PDF]({{< baseurl >}}/resources/mit3_003s10_proj1d_chart)), Presentation, and Report
+
+### Background
+
+"Future of Solar Electricity." ([PDF]({{< baseurl >}}/resources/mit3_003s10_solar_future)). Adapted from _High Impact Supply Chain R&D for PV Technologies and Systems_. U.S. Department of Energy (April 21, 2010): DE-FOA-0000234.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Solar Electricity: Problem, Constraints and Solutions."
+
+*   Poster ([PDF]({{< baseurl >}}/resources/mit3_003s10_swe_chart))
+*   Presentation ([PDF]({{< baseurl >}}/resources/mit3_003s10_swe_pres))
+*   Report ([PDF]({{< baseurl >}}/resources/mit3_003s10_swe_report))
+
+"Local Generation of Solar Electricity: Problem and Constraints for the Emergence of Significant Capacity."
+
+*   Poster ([PDF]({{< baseurl >}}/resources/mit3_003s10_swd_chart))
+*   Presentation ([PDF]({{< baseurl >}}/resources/mit3_003s10_swd_pres))
+*   Report ([PDF]({{< baseurl >}}/resources/mit3_003s10_swd_report))
+
+"Design of CdTe Thin Film Solar Cell and the Basis of its Emergence as a Significant Factor in Grid Electricity Capacity."
+
+*   Poster (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_003s10_swc_chart))
+*   Presentation ([PDF]({{< baseurl >}}/resources/mit3_003s10_swc_pres))
+*   Report ([PDF]({{< baseurl >}}/resources/mit3_003s10_swc_report))
+
+"Design of Si Thin Film Solar Cell and the Basis of its Emergence as a Significant Factor in Local Electricity Power Generation."
+
+*   Poster ([PDF]({{< baseurl >}}/resources/mit3_003s10_swb_chart))
+*   Presentation ([PDF]({{< baseurl >}}/resources/mit3_003s10_swb_pres))
+*   Report ([PDF]({{< baseurl >}}/resources/mit3_003s10_swb_report))
+
+"Summary of Options for the Growth of Solar Electricity."
+
+*   Poster ([PDF]({{< baseurl >}}/resources/mit3_003s10_swa_chart))
+*   Presentation ([PDF]({{< baseurl >}}/resources/mit3_003s10_swa_pres))
+*   Report ([PDF]({{< baseurl >}}/resources/mit3_003s10_swa_report))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
