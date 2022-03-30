@@ -120,7 +120,7 @@ Project 1D: Final Poster ([PDF]({{< baseurl >}}/resources/mit3_003s10_proj1d_cha
 
 "Design of CdTe Thin Film Solar Cell and the Basis of its Emergence as a Significant Factor in Grid Electricity Capacity."
 
-*   Poster (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit3_003s10_swc_chart))
+*   Poster ([PDF]({{< baseurl >}}/resources/mit3_003s10_swc_chart))
 *   Presentation ([PDF]({{< baseurl >}}/resources/mit3_003s10_swc_pres))
 *   Report ([PDF]({{< baseurl >}}/resources/mit3_003s10_swc_report))
 
