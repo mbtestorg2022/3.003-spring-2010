@@ -4,6 +4,7 @@ description: 'This resource contains information related to solar electricity: p
   constraints and solutions.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-003-principles-of-engineering-practice-spring-2010/bac140804bcf7ef834cc3cc7692def52_MIT3_003S10_swE_pres.pdf
 file_type: application/pdf
+parent_uid: 5465e29e-edba-d0df-9c26-da4b8df841d3
 resourcetype: Document
 title: MIT3_003S10_swE_pres.pdf
 uid: bac14080-4bcf-7ef8-34cc-3cc7692def52

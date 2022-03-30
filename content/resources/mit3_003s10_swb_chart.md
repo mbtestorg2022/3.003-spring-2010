@@ -4,6 +4,7 @@ description: This resource contains information related to making local solar po
   electricity.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-003-principles-of-engineering-practice-spring-2010/90ce7214f4e4079eeed4f231057a9071_MIT3_003S10_swB_chart.pdf
 file_type: application/pdf
+parent_uid: 5465e29e-edba-d0df-9c26-da4b8df841d3
 resourcetype: Document
 title: MIT3_003S10_swB_chart.pdf
 uid: 90ce7214-f4e4-079e-eed4-f231057a9071
